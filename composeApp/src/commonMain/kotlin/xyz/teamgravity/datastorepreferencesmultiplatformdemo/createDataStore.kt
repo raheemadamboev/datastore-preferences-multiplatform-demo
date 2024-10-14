@@ -11,4 +11,4 @@ fun createDataStore(path: String): DataStore<Preferences> {
     )
 }
 
-internal const val DATA_STORE_NAME = "preferences.preferences_pb"
+const val DATA_STORE_NAME = "preferences.preferences_pb"
